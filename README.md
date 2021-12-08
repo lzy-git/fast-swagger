@@ -11,7 +11,7 @@
    ```  
     <dependency>
         <groupId>com.openyuan</groupId>
-        <artifactId>fast-swagger-starter</artifactId>
+        <artifactId>fast-swagger</artifactId>
         <version>1.0.0</version>
     </dependency>
    ```
